@@ -1,0 +1,10 @@
+c:\users\workstation1\documents\visual studio 2015\Projects\TelegramBotGetImage\TelegramBotGetImage\bin\Debug\TelegramBotGetImage.exe.config
+c:\users\workstation1\documents\visual studio 2015\Projects\TelegramBotGetImage\TelegramBotGetImage\bin\Debug\TelegramBotGetImage.exe
+c:\users\workstation1\documents\visual studio 2015\Projects\TelegramBotGetImage\TelegramBotGetImage\bin\Debug\TelegramBotGetImage.pdb
+c:\users\workstation1\documents\visual studio 2015\Projects\TelegramBotGetImage\TelegramBotGetImage\bin\Debug\Newtonsoft.Json.dll
+c:\users\workstation1\documents\visual studio 2015\Projects\TelegramBotGetImage\TelegramBotGetImage\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\workstation1\documents\visual studio 2015\Projects\TelegramBotGetImage\TelegramBotGetImage\bin\Debug\Telegram.Bot.dll
+c:\users\workstation1\documents\visual studio 2015\Projects\TelegramBotGetImage\TelegramBotGetImage\bin\Debug\Newtonsoft.Json.xml
+c:\users\workstation1\documents\visual studio 2015\Projects\TelegramBotGetImage\TelegramBotGetImage\obj\Debug\TelegramBotGetImage.csprojResolveAssemblyReference.cache
+c:\users\workstation1\documents\visual studio 2015\Projects\TelegramBotGetImage\TelegramBotGetImage\obj\Debug\TelegramBotGetImage.exe
+c:\users\workstation1\documents\visual studio 2015\Projects\TelegramBotGetImage\TelegramBotGetImage\obj\Debug\TelegramBotGetImage.pdb
