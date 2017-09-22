@@ -58,8 +58,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GetSimpleWeather.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WeatherResponse.cs" />
+    <Compile Include="WeatherResponseFor5Days.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

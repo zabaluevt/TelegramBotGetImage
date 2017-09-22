@@ -1,0 +1,7 @@
+about - Get information about athor
+getimage - Get new image from bot
+getmusic - Get new song from bot
+weathernow - Get temperature now at present
+weathertomorrow - Get temperature for 24 hours
+
+
